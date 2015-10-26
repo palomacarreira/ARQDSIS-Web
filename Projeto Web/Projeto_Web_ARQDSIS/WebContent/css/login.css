@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+
+
+#conteudo{
+	margin: 100px auto;
+	width: 500px;
+	height: 250px;
+	border:1px solid #aaa;
+}
+
+#imagem{
+	float: left;
+}
+
+#dados{
+	margin-top:70px;
+} 
+
+
+#dados select{
+	width:150px;
+} 
+
+#botao input{
+	margin-left:1px;
+	margin-top:10px;
+	height:30px;
+	width:100px;
+
+}	
+
+#botao input{
+	 display: inline-block;
+}
+
+
